@@ -1,0 +1,12 @@
+<resources>
+
+     <string name="app_name">Display Rotation Demo - danielme.com</string>
+     <string name="app_name_default">Default behavior</string>
+     <string name="app_name_default_retain">Default behavior / Retaining data</string>
+     <string name="app_name_diy">Do it yourself</string>
+     <string name="app_name_lock">Only portrait</string>
+     
+     <string name="field1">Field 1 :</string>
+     <string name="field2">Field 2 :</string>
+
+</resources>
